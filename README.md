@@ -1,6 +1,6 @@
 # dmenu - suckless dynamic menu
 
-dmenu is an efficient dynamic menu for X. This fork has the following patches applied by default, check [st.suckless.org](https://tools.suckless.org/dmenu/) for more info.
+dmenu is an efficient dynamic menu for X. This fork has the following patches applied by default, check [tools.suckless.org/dmenu](https://tools.suckless.org/dmenu/) for more info.
 
 - [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
 - [line height](https://tools.suckless.org/dmenu/patches/line-height/)
