@@ -25,11 +25,3 @@ Then edit config.mk to match your local setup (dmenu is installed into the `/usr
 ```
 make clean install
 ```
-
-## Usage
-
-Just run something like this:
-
-```
-dmenu_run -i -nb '#282a36' -nf '#ff9500' -sb '#ff9500' -sf '#282a36' -fn 'mononoki Nerd Font:regular:pixelsize=12' -h 20
-```
